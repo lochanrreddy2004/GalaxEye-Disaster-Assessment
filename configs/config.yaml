@@ -1,0 +1,19 @@
+train_dir: datasets/train
+val_dir: datasets/val
+
+test_dir: datasets/test
+
+image_size: 256
+batch_size: 2
+num_workers: 2
+
+learning_rate: 0.00003
+weight_decay: 0.0001
+
+epochs: 20
+
+encoder_name: resnet18
+
+save_dir: outputs/checkpoints
+
+seed: 42
