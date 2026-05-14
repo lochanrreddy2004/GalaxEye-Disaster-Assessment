@@ -1,0 +1,12 @@
+torch==2.2.2
+torchvision==0.17.2
+segmentation-models-pytorch==0.3.3
+albumentations==1.4.3
+opencv-python==4.9.0.80
+# numpy==1.26.4
+# pandas==2.2.1
+# matplotlib==3.8.3
+scikit-learn==1.4.1
+PyYAML==6.0.1
+tqdm==4.66.2
+Pillow==10.2.0

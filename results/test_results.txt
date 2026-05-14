@@ -1,0 +1,10 @@
+Evaluation Results
+========================================
+IoU        : 0.0000
+Precision  : 0.0000
+Recall     : 0.0000
+F1 Score   : 0.0000
+
+Confusion Matrix
+[[1252093       0]
+ [   9475       0]]
